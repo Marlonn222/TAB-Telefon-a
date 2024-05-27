@@ -1,0 +1,4 @@
+pip install pytesseract
+https://omes-va.com/como-instalar-tesseract-orc-y-pytesseract-en-windows/
+https://pypi.org/project/pytesseract/
+https://github.com/UB-Mannheim/tesseract/wiki
